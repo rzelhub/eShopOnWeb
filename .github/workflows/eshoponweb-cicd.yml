@@ -9,7 +9,7 @@ env:
   LOCATION: eastasia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 122ad924-1383-45d2-abae-d4c1e306c9a1
-  WEBAPP-NAME: az400-webapp-RDL
+  WEBAPP-NAME: az400-webapp-RDLopez
 
 
 jobs:
